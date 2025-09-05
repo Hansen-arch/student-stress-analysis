@@ -1,15 +1,21 @@
 student-stress-analysis
+
 Data analysis project on student stress using IBM Granite AI, Google Colab, and Kaggle dataset.
+
 Student Stress Monitoring Analysis
 
 Project Overview
+
 This project analyzes student stress monitoring datasets to identify patterns, correlations, and potential causes of stress. The goal is to generate **insights and recommendations**   that can support better decision-making in education and student well-being programs.  
 
 The project uses Python for data analysis and **IBM Granite LLM** for AI-supported insights and recommendations.
 
 Google Colab
+
   https://colab.research.google.com/drive/1lyEiyuvXEScywyHtjxNmC_lG5zU2c4gj?usp=sharing
+  
 Raw Dataset
+
   Dataset: [Student Stress Monitoring Datasets (Kaggle)](https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets)  
 
 Analysis Process
