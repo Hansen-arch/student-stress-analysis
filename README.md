@@ -27,7 +27,12 @@ Analysis Process
 Insights & Findings
   - High stress levels are strongly correlated with academic performance.  
   - Stressors such as **workload, exams, financial concerns, and social issues** contribute the most.  
-  - Seasonal or time-based patterns suggest **peak stress before exams**.  
+  - Seasonal or time-based patterns suggest **peak stress before exams**
+  - Eustress (positive stress) is
+commonly experienced during
+challenging academic tasks and
+competitive environments
+    
 
 Conclusion & Recommendations
   - Institutions should **introduce stress management workshops**.  
